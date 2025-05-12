@@ -1,9 +1,6 @@
-# 💫 About Me:
+# 💫 About Me: They call me nom nom shark
 
-They call me nom nom shark
-
-## 📸 My Wallpaper:
-![Wallpaper](https://github.com/username/repository_name/blob/main/path_to_wallpaper.jpg)
+![Wallpaper](https://github.com/Hakuuu204/Wallpaper/blob/main/NomNom.png)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/h1lmi) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GinanjarHilmi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ginanjarhil) 
