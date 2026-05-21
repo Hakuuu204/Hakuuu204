@@ -127,7 +127,7 @@ coffee_consumed: ∞
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kohakuuu&layout=compact&theme=tokyonight)
+![Top Langs](https://github-profile-trophy.vercel.app/?username=Kohakuuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
