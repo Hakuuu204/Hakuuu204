@@ -49,8 +49,8 @@ coffee_consumed: ∞
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1oNzJ3YXpwZTU4aGZnZ3l3amVwMncyOTZ0OGhrOGszbzFwNnY5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eONKhEa5DLSFuvXf1s/giphy.gif" width="200" alt="gif 1"/> | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBhZDhzYTl4eHd3d2VsbTg1ZmpmZzkzbzY1YTJmZHlhYnpxZGc4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CUVQwmi2UaBQQfnwTK/giphy.gif" width="200" alt="gif 2"/> | <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxrMmJpbjZweWQ2NHdsM2lpbm92dTI4YTF3b3phN2hmb3V6N2xjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OlL56evAgtuhgqxCQL/giphy.gif" width="200" alt="gif 3"/> |
-| *Shaky* | *Breaking Bad* | *Sleepy Shark* |
+| <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1oNzJ3YXpwZTU4aGZnZ3l3amVwMncyOTZ0OGhrOGszbzFwNnY5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eONKhEa5DLSFuvXf1s/giphy.gif" width="200" alt="gif 1"/> | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBhZDhzYTl4eHd3d2VsbTg1ZmpmZzkzbzY1YTJmZHlhYnpxZGc4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CUVQwmi2UaBQQfnwTK/giphy.gif" width="200" alt="gif 2"/> | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRyd3N4bDRjaHI1MGN2Mjh3Z2g0bzgwdHQ2ajRpbnVuZ3BneGV2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Np0qbSQzD3UdCjJzYJ/giphy.gif" width="200" alt="gif 3"/> |
+| *Shaky* | *Breaking Bad* | *Study?* |
 
 <!-- 
   HOW TO ADD GIFs:
