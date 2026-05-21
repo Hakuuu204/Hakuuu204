@@ -49,7 +49,7 @@ coffee_consumed: ∞
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1oNzJ3YXpwZTU4aGZnZ3l3amVwMncyOTZ0OGhrOGszbzFwNnY5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eONKhEa5DLSFuvXf1s/giphy.gif" width="200" alt="gif 1"/> | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBhZDhzYTl4eHd3d2VsbTg1ZmpmZzkzbzY1YTJmZHlhYnpxZGc4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CUVQwmi2UaBQQfnwTK/giphy.gif" width="200" alt="gif 2"/> | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRyd3N4bDRjaHI1MGN2Mjh3Z2g0bzgwdHQ2ajRpbnVuZ3BneGV2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Np0qbSQzD3UdCjJzYJ/giphy.gif" width="200" alt="gif 3"/> |
+| <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1oNzJ3YXpwZTU4aGZnZ3l3amVwMncyOTZ0OGhrOGszbzFwNnY5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eONKhEa5DLSFuvXf1s/giphy.gif" width="200" alt="gif 1"/> | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBhZDhzYTl4eHd3d2VsbTg1ZmpmZzkzbzY1YTJmZHlhYnpxZGc4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CUVQwmi2UaBQQfnwTK/giphy.gif" width="200" alt="gif 2"/> | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBrN3lkd2puZ2I0OXp2NWIzZWpwaGpqOHNwMzBlcjB4ZmZmZjg4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cTV3qN4DI5hUDDamnQ/giphy.gif" width="200" alt="gif 3"/> |
 | *Shaky* | *Breaking Bad* | *Study?* |
 
 <!-- 
