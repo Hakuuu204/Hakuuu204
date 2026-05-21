@@ -119,16 +119,15 @@ coffee_consumed: ∞
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hakuuu204&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kohakuuu&theme=aura&hide_border=false&include_all_commits=false&count_private=false" width="49%" alt="GitHub Stats"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Kohakuuu&theme=aura&hide_border=false" width="49%" alt="Streak Stats"/>
+## 🔥 Streak Stats
 
-<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Hakuuu204&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kohakuuu&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" alt="Top Languages"/>
+## 💻 Most Used Languages
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakuuu204&layout=compact&theme=tokyonight)
 
 ---
 
