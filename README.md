@@ -22,9 +22,9 @@
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R0ZDJwZXY0Z3FwemwxaG4wZjc0bnR1dGwydHM3dHdvMm05ZXhldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h345U7wVploEdr8iNz/giphy.gif" width="300" alt="coding gif"/>
 
 ```yaml
-name: Ginanjar Hilmi
+name: Ginanjar Hilmi Yahya
 alias: Nom Nom Shark 🦈
-location: Indonesia 🇮🇩
+location: Ocean 🌊
 passion: Game Dev & Creative Coding
 status: Building cool stuff...
 coffee_consumed: ∞
