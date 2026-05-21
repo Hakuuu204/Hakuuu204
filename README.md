@@ -99,18 +99,6 @@ coffee_consumed: ∞
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kohakuuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kohakuuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kohakuuu&theme=tokyonight&hide_border=true&background=0d1117" />
-
-</div>
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
