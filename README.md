@@ -43,28 +43,10 @@ coffee_consumed: ∞
 
 <div align="center">
 
-<!-- ══════════════════════════════════════ -->
-<!--        ADD YOUR GIFs HERE             -->
-<!-- ══════════════════════════════════════ -->
-
 | | | |
 |:---:|:---:|:---:|
 | <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1oNzJ3YXpwZTU4aGZnZ3l3amVwMncyOTZ0OGhrOGszbzFwNnY5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eONKhEa5DLSFuvXf1s/giphy.gif" width="200" alt="gif 1"/> | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBhZDhzYTl4eHd3d2VsbTg1ZmpmZzkzbzY1YTJmZHlhYnpxZGc4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CUVQwmi2UaBQQfnwTK/giphy.gif" width="200" alt="gif 2"/> | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBrN3lkd2puZ2I0OXp2NWIzZWpwaGpqOHNwMzBlcjB4ZmZmZjg4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cTV3qN4DI5hUDDamnQ/giphy.gif" width="200" alt="gif 3"/> |
 | *Shaky* | *Breaking Bad* | *Study?* |
-
-<!-- 
-  HOW TO ADD GIFs:
-  1. Upload gif to Giphy or Tenor, grab the direct .gif link
-  2. Replace the src URLs above
-  3. Add more rows by copying the table row pattern
-  
-  Single gif (centered, big):
-  <img src="YOUR_GIF_URL" width="480" alt="description"/>
-  
-  Two gifs side by side:
-  | <img src="GIF1" width="300"/> | <img src="GIF2" width="300"/> |
-  |:---:|:---:|
--->
 
 </div>
 
@@ -119,7 +101,7 @@ coffee_consumed: ∞
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kohakuuu&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hakuuu204&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -127,7 +109,7 @@ coffee_consumed: ∞
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Kohakuuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Hakuuu204&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -147,7 +129,7 @@ coffee_consumed: ∞
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-[![](https://visitcount.itsvg.in/api?id=Kohakuuu&icon=6&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Hakuuu204&icon=6&color=6)](https://visitcount.itsvg.in)
 
 *Made with 🦈 by Nom Nom Shark*
 
