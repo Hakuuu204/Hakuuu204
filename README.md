@@ -93,16 +93,6 @@ coffee_consumed: ∞
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Hakuuu204&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
 ## ✍️ Dev Quote of the Day
 
 <div align="center">
